@@ -1,0 +1,14 @@
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Localization.Demo.exe.config
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Localization.Demo.exe
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Localization.Demo.pdb
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Core.dll
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Localization.dll
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Localization.pdb
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.Core.xml
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\obj\Debug\NISOCountries.Localization.Demo.csprojResolveAssemblyReference.cache
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\obj\Debug\NISOCountries.Localization.Demo.exe
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\obj\Debug\NISOCountries.Localization.Demo.pdb
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.GeoNames.dll
+E:\Projects\NISOCountries.Localization\NISOCountries.Localization.Demo\bin\Debug\NISOCountries.GeoNames.xml
